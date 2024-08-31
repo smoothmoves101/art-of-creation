@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "100117886911",
-    "project_id": "prayer-daily-y94ga1",
-    "storage_bucket": "prayer-daily-y94ga1.appspot.com"
+    "project_number": "1011772399028",
+    "project_id": "the-art-of-creation-g4sfxi",
+    "storage_bucket": "the-art-of-creation-g4sfxi.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:100117886911:android:a89f7c1cc0680e4e67530a",
+        "mobilesdk_app_id": "1:1011772399028:android:aada9a298d2cdb113b66e1",
         "android_client_info": {
           "package_name": "com.mycompany.theartofcreation"
         }
@@ -15,45 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAG72ad-PcuAkqPdJzszpaEALfvd_TeN6E"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:100117886911:android:827944724e58c1a767530a",
-        "android_client_info": {
-          "package_name": "com.mycompany.walkerjanitorialandlandscapingservices"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAG72ad-PcuAkqPdJzszpaEALfvd_TeN6E"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:100117886911:android:06352375a8da781867530a",
-        "android_client_info": {
-          "package_name": "com.mycompany.walkerjanitorialandlandscapingservicesbookingapp"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAG72ad-PcuAkqPdJzszpaEALfvd_TeN6E"
+          "current_key": "AIzaSyC4fi3EWORLh0qWelUbIk8YCwfiSkz-Krc"
         }
       ],
       "services": {

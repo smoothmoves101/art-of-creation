@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyAaqr4lt2Yv3kiuLKLi4uMrDBxgkLitqBY</string>
+	<string>AIzaSyDfNq2X72GZtDaehvaRfC75pnYfXKH51Dc</string>
 	<key>GCM_SENDER_ID</key>
-	<string>100117886911</string>
+	<string>1011772399028</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.mycompany.theartofcreation</string>
 	<key>PROJECT_ID</key>
-	<string>prayer-daily-y94ga1</string>
+	<string>the-art-of-creation-g4sfxi</string>
 	<key>STORAGE_BUCKET</key>
-	<string>prayer-daily-y94ga1.appspot.com</string>
+	<string>the-art-of-creation-g4sfxi.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:100117886911:ios:d6a5618dae744c8667530a</string>
+	<string>1:1011772399028:ios:46212730c0fbc2a53b66e1</string>
 </dict>
 </plist>
